@@ -9,8 +9,7 @@ if options == "Simple Interest calculator":
     I = (P * T * R) / 100
     if st.button("Calculate interest"):
         st.success("The simple interest is {}".format(I))
-# if options == "Sales dashboard":
-#     st.warning("App is in progress")
+#import streamlit pkg to view in Localhost
 
 
 
